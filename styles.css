@@ -99,6 +99,7 @@ body {
     padding: 1.5rem;
     border-radius: var(--br);
     max-width: 37.5rem;
+    box-shadow: 5px 5px 40px hsla(293, 16%, 49%, 0.347);
 }
 
 .faq-card p {
